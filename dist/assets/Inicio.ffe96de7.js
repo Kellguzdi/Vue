@@ -1,1 +1,0 @@
-import{n as t}from"./index.38238048.js";const r={data(){return{items:[{text:"Inicio",href:"#",to:"inicio"}]}}};var o=function(){var n=this,e=n._self._c;return e("div",[e("b-breadcrumb",{attrs:{"router-component-name":"",items:n.items}})],1)},_=[],i=t(r,o,_,!1,null,null,null,null);const c=i.exports;export{c as default};
